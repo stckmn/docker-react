@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I'm back bitches!
+          I'm back bitches! And I'm using React!
         </a>
       </header>
     </div>
